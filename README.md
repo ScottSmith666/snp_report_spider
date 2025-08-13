@@ -1,6 +1,5 @@
 # SNP Report Spider
 ### SNP Report Spider可方便地爬取csv表格中的SNP对应的不同人种的等位基因频率信息。
-![](https://raw.githubusercontent.com/ScottSmith666/NCBI-SNP-Spider/refs/heads/main/imgs/ncbi.png)
 
 ## 1. 运行本程序
 如果仅需运行本程序，可从GitHub Release下载对应的二进制文件，放置于本地软件目录，并部署环境变量，便可直接运行，无需在您的系统安装任何依赖。
